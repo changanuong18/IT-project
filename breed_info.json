@@ -1,0 +1,387 @@
+{
+    "Abyssinian": {
+        "weight": "3.5 - 5.5 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Active, Playful, Curious, Social",
+        "common_diseases": [
+            "Renal Amyloidosis",
+            "Hyperthyroidism",
+            "Progressive Retinal Atrophy"
+        ],
+        "care_tips": "Needs lots of interactive play and climbing spaces. Short coat requires minimal grooming but weekly brushing helps."
+    },
+    "American_bulldog": {
+        "weight": "27 - 54 kg",
+        "lifespan": "10 - 15 years",
+        "temperament": "Confident, Loyal, Friendly, Energetic",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Cherry Eye",
+            "Elbow Dysplasia"
+        ],
+        "care_tips": "Requires daily exercise and firm, consistent training. Prone to overheating in hot weather."
+    },
+    "American_pit_bull_terrier": {
+        "weight": "14 - 27 kg",
+        "lifespan": "8 - 15 years",
+        "temperament": "Strong-willed, Loyal, Affectionate, Courageous",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Allergies",
+            "Heart Disease"
+        ],
+        "care_tips": "Needs vigorous daily exercise and socialization. Short coat is low-maintenance but sensitive to cold weather."
+    },
+    "Basset_hound": {
+        "weight": "20 - 29 kg",
+        "lifespan": "10 - 12 years",
+        "temperament": "Patient, Charming, Low-key, Stubborn",
+        "common_diseases": [
+            "Ear Infections",
+            "Obesity",
+            "Hip Dysplasia"
+        ],
+        "care_tips": "Clean ears regularly to prevent infections. Moderate exercise needed but avoid overfeeding as they gain weight easily."
+    },
+    "Beagle": {
+        "weight": "9 - 11 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Friendly, Curious, Merry, Determined",
+        "common_diseases": [
+            "Epilepsy",
+            "Hip Dysplasia",
+            "Cherry Eye"
+        ],
+        "care_tips": "Needs daily exercise and mental stimulation. Keep on leash outdoors as they tend to follow scents. Watch their diet to prevent obesity."
+    },
+    "Bengal": {
+        "weight": "3.5 - 7 kg",
+        "lifespan": "12 - 16 years",
+        "temperament": "Energetic, Intelligent, Playful, Curious",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Progressive Retinal Atrophy",
+            "Patellar Luxation"
+        ],
+        "care_tips": "Very active breed that needs lots of play and enrichment. Loves water and climbing. Provide tall cat trees and puzzle toys."
+    },
+    "Birman": {
+        "weight": "3 - 6 kg",
+        "lifespan": "12 - 16 years",
+        "temperament": "Gentle, Affectionate, Calm, Social",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Kidney Disease",
+            "Feline Infectious Peritonitis"
+        ],
+        "care_tips": "Semi-long coat requires regular brushing 2-3 times per week. Very social and does not like being left alone for long periods."
+    },
+    "Bombay": {
+        "weight": "3.5 - 5 kg",
+        "lifespan": "12 - 18 years",
+        "temperament": "Affectionate, Playful, Social, Intelligent",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Respiratory Issues",
+            "Excessive Tearing"
+        ],
+        "care_tips": "Short coat needs minimal grooming. Very people-oriented and loves warmth. Keep indoors as they have a sleek black coat that absorbs heat."
+    },
+    "Boxer": {
+        "weight": "25 - 32 kg",
+        "lifespan": "10 - 12 years",
+        "temperament": "Fun-loving, Loyal, Energetic, Intelligent",
+        "common_diseases": [
+            "Cancer",
+            "Heart Conditions",
+            "Hip Dysplasia"
+        ],
+        "care_tips": "High energy breed requiring vigorous daily exercise. Sensitive to extreme temperatures. Early socialization and training recommended."
+    },
+    "British_Shorthair": {
+        "weight": "4 - 8 kg",
+        "lifespan": "12 - 20 years",
+        "temperament": "Calm, Easy-going, Loyal, Independent",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Obesity",
+            "Polycystic Kidney Disease"
+        ],
+        "care_tips": "Prone to weight gain so monitor food portions. Dense coat benefits from weekly brushing. They prefer being near you rather than on your lap."
+    },
+    "Chihuahua": {
+        "weight": "1.5 - 3 kg",
+        "lifespan": "12 - 20 years",
+        "temperament": "Alert, Lively, Devoted, Courageous",
+        "common_diseases": [
+            "Patellar Luxation",
+            "Heart Disease",
+            "Hydrocephalus"
+        ],
+        "care_tips": "Sensitive to cold weather, may need a sweater. Small meals throughout the day to prevent low blood sugar. Dental care is very important."
+    },
+    "Egyptian_Mau": {
+        "weight": "3 - 5 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Active, Loyal, Playful, Sensitive",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Leukodystrophy",
+            "Allergies"
+        ],
+        "care_tips": "One of the fastest domestic cat breeds. Needs space to run and play. Naturally spotted coat requires minimal grooming."
+    },
+    "English_cocker_spaniel": {
+        "weight": "13 - 15 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Happy, Gentle, Smart, Affectionate",
+        "common_diseases": [
+            "Ear Infections",
+            "Progressive Retinal Atrophy",
+            "Hip Dysplasia"
+        ],
+        "care_tips": "Long ears need regular cleaning to prevent infections. Coat requires regular brushing and professional grooming every 6-8 weeks."
+    },
+    "English_setter": {
+        "weight": "20 - 36 kg",
+        "lifespan": "10 - 12 years",
+        "temperament": "Gentle, Friendly, Mischievous, Energetic",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Deafness",
+            "Hypothyroidism"
+        ],
+        "care_tips": "Needs lots of exercise and outdoor activities. Beautiful long coat requires regular brushing to prevent matting."
+    },
+    "German_shorthaired": {
+        "weight": "20 - 32 kg",
+        "lifespan": "12 - 14 years",
+        "temperament": "Enthusiastic, Bold, Smart, Cooperative",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Bloat",
+            "Eye Conditions"
+        ],
+        "care_tips": "Extremely energetic breed that needs vigorous daily exercise. Great companion for runners and hikers. Short coat is low-maintenance."
+    },
+    "Great_pyrenees": {
+        "weight": "36 - 54 kg",
+        "lifespan": "10 - 12 years",
+        "temperament": "Patient, Calm, Gentle, Protective",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Bloat",
+            "Bone Cancer"
+        ],
+        "care_tips": "Thick double coat needs regular brushing, especially during shedding season. Nocturnal by nature and may bark at night. Needs a fenced yard."
+    },
+    "Havanese": {
+        "weight": "3 - 6 kg",
+        "lifespan": "14 - 16 years",
+        "temperament": "Cheerful, Intelligent, Outgoing, Playful",
+        "common_diseases": [
+            "Patellar Luxation",
+            "Cataracts",
+            "Heart Murmurs"
+        ],
+        "care_tips": "Silky coat needs daily brushing or can be kept in a short puppy cut. Social dogs that do not like being left alone. Great for apartments."
+    },
+    "Japanese_chin": {
+        "weight": "1.4 - 5 kg",
+        "lifespan": "10 - 14 years",
+        "temperament": "Alert, Loyal, Independent, Intelligent",
+        "common_diseases": [
+            "Heart Murmurs",
+            "Patellar Luxation",
+            "Eye Problems"
+        ],
+        "care_tips": "Cat-like personality, enjoys climbing and perching on high surfaces. Sensitive to heat due to flat face. Silky coat needs regular brushing."
+    },
+    "Keeshond": {
+        "weight": "15 - 20 kg",
+        "lifespan": "13 - 15 years",
+        "temperament": "Friendly, Lively, Outgoing, Agile",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Epilepsy",
+            "Heart Disease"
+        ],
+        "care_tips": "Thick double coat needs brushing 2-3 times per week. Very social and thrives on human companionship. Moderate exercise needs."
+    },
+    "Leonberger": {
+        "weight": "41 - 77 kg",
+        "lifespan": "8 - 9 years",
+        "temperament": "Gentle, Loyal, Playful, Friendly",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Bloat",
+            "Osteosarcoma"
+        ],
+        "care_tips": "Giant breed that needs moderate daily exercise. Thick waterproof coat needs regular brushing. Loves swimming. Drools quite a bit."
+    },
+    "Maine_Coon": {
+        "weight": "5 - 11 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Gentle, Friendly, Intelligent, Playful",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Hip Dysplasia",
+            "Spinal Muscular Atrophy"
+        ],
+        "care_tips": "One of the largest domestic cat breeds. Long coat needs regular brushing. Very dog-like personality, can be trained to fetch and walk on a leash."
+    },
+    "Miniature_pinscher": {
+        "weight": "3.5 - 5 kg",
+        "lifespan": "12 - 16 years",
+        "temperament": "Fearless, Energetic, Alert, Proud",
+        "common_diseases": [
+            "Patellar Luxation",
+            "Legg-Calve-Perthes Disease",
+            "Progressive Retinal Atrophy"
+        ],
+        "care_tips": "Very active despite small size. Short coat needs minimal grooming. Known as the 'King of Toys' for their confident personality."
+    },
+    "Newfoundland": {
+        "weight": "45 - 68 kg",
+        "lifespan": "8 - 10 years",
+        "temperament": "Sweet, Gentle, Patient, Devoted",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Heart Conditions",
+            "Bloat"
+        ],
+        "care_tips": "Excellent swimmers with webbed feet. Heavy coat needs regular brushing. Drools significantly. Gentle giants that are great with children."
+    },
+    "Persian": {
+        "weight": "3 - 5.5 kg",
+        "lifespan": "12 - 17 years",
+        "temperament": "Quiet, Gentle, Affectionate, Calm",
+        "common_diseases": [
+            "Polycystic Kidney Disease",
+            "Respiratory Issues",
+            "Eye Conditions"
+        ],
+        "care_tips": "Long coat requires daily grooming to prevent mats. Flat face needs regular eye cleaning. Low-energy breed, perfect for indoor living."
+    },
+    "Pomeranian": {
+        "weight": "1.4 - 3.2 kg",
+        "lifespan": "12 - 16 years",
+        "temperament": "Lively, Bold, Curious, Playful",
+        "common_diseases": [
+            "Patellar Luxation",
+            "Tracheal Collapse",
+            "Alopecia X"
+        ],
+        "care_tips": "Fluffy double coat needs regular brushing to prevent matting. Dental care is important. Can be prone to barking, needs early training."
+    },
+    "Pug": {
+        "weight": "6 - 8 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Charming, Mischievous, Loving, Sociable",
+        "common_diseases": [
+            "Brachycephalic Syndrome",
+            "Eye Problems",
+            "Hip Dysplasia"
+        ],
+        "care_tips": "Flat face makes them sensitive to heat and exercise. Clean facial wrinkles daily to prevent infections. Prone to obesity, monitor diet carefully."
+    },
+    "Ragdoll": {
+        "weight": "4.5 - 9 kg",
+        "lifespan": "12 - 17 years",
+        "temperament": "Docile, Calm, Affectionate, Gentle",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Bladder Stones",
+            "Feline Infectious Peritonitis"
+        ],
+        "care_tips": "Named for their tendency to go limp when picked up. Semi-long coat is relatively low-maintenance. Very dog-like, may follow you around the house."
+    },
+    "Russian_Blue": {
+        "weight": "3 - 5.5 kg",
+        "lifespan": "15 - 20 years",
+        "temperament": "Shy, Gentle, Quiet, Intelligent",
+        "common_diseases": [
+            "Obesity",
+            "Bladder Stones",
+            "Eye Problems"
+        ],
+        "care_tips": "Dense blue-gray coat needs minimal grooming. Can be shy with strangers but very loyal to their family. Thrives on routine and does not like changes."
+    },
+    "Saint_bernard": {
+        "weight": "54 - 82 kg",
+        "lifespan": "8 - 10 years",
+        "temperament": "Gentle, Friendly, Watchful, Patient",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Bloat",
+            "Heart Conditions"
+        ],
+        "care_tips": "Giant breed that drools heavily. Moderate exercise needs but requires space due to size. Sensitive to heat. Puppy training essential due to large adult size."
+    },
+    "Samoyed": {
+        "weight": "16 - 30 kg",
+        "lifespan": "12 - 14 years",
+        "temperament": "Friendly, Gentle, Adaptable, Playful",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Diabetes",
+            "Progressive Retinal Atrophy"
+        ],
+        "care_tips": "Famous white fluffy coat needs daily brushing. Known for the 'Sammy smile'. Very social and does not do well left alone. Sheds heavily."
+    },
+    "Scottish_terrier": {
+        "weight": "8.5 - 10 kg",
+        "lifespan": "11 - 13 years",
+        "temperament": "Independent, Confident, Spirited, Alert",
+        "common_diseases": [
+            "Von Willebrand Disease",
+            "Scottie Cramp",
+            "Bladder Cancer"
+        ],
+        "care_tips": "Wiry coat needs regular grooming and professional trimming. Independent personality requires patient training. Good watchdogs for their size."
+    },
+    "Shiba": {
+        "weight": "8 - 11 kg",
+        "lifespan": "12 - 15 years",
+        "temperament": "Alert, Active, Loyal, Bold",
+        "common_diseases": [
+            "Allergies",
+            "Patellar Luxation",
+            "Hip Dysplasia"
+        ],
+        "care_tips": "Cat-like personality with strong independence. Double coat sheds heavily twice a year. Known for the 'Shiba scream'. Early socialization is important."
+    },
+    "Siamese": {
+        "weight": "3.5 - 5.5 kg",
+        "lifespan": "15 - 20 years",
+        "temperament": "Social, Vocal, Intelligent, Affectionate",
+        "common_diseases": [
+            "Amyloidosis",
+            "Asthma",
+            "Crossed Eyes"
+        ],
+        "care_tips": "One of the most vocal cat breeds. Very social and needs constant companionship. Short coat requires minimal grooming. Benefits from puzzle toys."
+    },
+    "Sphynx": {
+        "weight": "3 - 5.5 kg",
+        "lifespan": "8 - 14 years",
+        "temperament": "Energetic, Mischievous, Affectionate, Social",
+        "common_diseases": [
+            "Hypertrophic Cardiomyopathy",
+            "Skin Conditions",
+            "Respiratory Infections"
+        ],
+        "care_tips": "Hairless but needs weekly bathing to remove oil buildup on skin. Sensitive to cold and sunburn. Very high energy and needs lots of attention."
+    },
+    "Staffordshire_bull_terrier": {
+        "weight": "11 - 17 kg",
+        "lifespan": "12 - 14 years",
+        "temperament": "Brave, Tenacious, Affectionate, Loyal",
+        "common_diseases": [
+            "Hip Dysplasia",
+            "Cataracts",
+            "L-2 Hydroxyglutaric Aciduria"
+        ],
+        "care_tips": "Known as the 'nanny dog' for being great with children. Needs regular exercise and mental stimulation. Short coat is easy to maintain."
+    }
+}
